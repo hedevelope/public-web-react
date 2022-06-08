@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.bckg-color{
+  background-color: black !important;
+}
